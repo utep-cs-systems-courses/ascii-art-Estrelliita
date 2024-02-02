@@ -18,7 +18,7 @@ int main()
     switch (c) {
     case 't':
       puts("You selected triangle:");
-      print_triangle(5, 7);
+      print_arrow(5, 7);
       break;
     case 's':
       puts("You selected square:");
